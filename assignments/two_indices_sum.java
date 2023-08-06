@@ -1,4 +1,3 @@
-import java.net.SocketPermission;
 import java.util.Arrays;
 
 public class two_indices_sum {
